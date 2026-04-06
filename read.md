@@ -12,3 +12,10 @@
 4. Start the server: npm start
 Trying to push into the main
 New test after creating the branch
+
+
+	## Configurações do Sistema
+	- Ambiente: produção
+	- Porta: 8080
+	- Timeout: 30s
+	- Max connections: 1000
