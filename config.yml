@@ -2,3 +2,6 @@
 emergency_mode: true
 max_retries: 5
 Timeout: 30
+Port: 3000
+host: localhost
+Timeout:30
