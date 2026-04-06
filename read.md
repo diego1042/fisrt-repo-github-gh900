@@ -12,3 +12,8 @@
 4. Start the server: npm start
 Trying to push into the main
 New test after creating the branch
+
+## Instruções de Deploy v2
+	1. Executar script `deploy-v2.sh`
+	2. Verificar logs em `/var/log/deploy.log`
+	3. Validar endpoints de saúde
