@@ -20,4 +20,4 @@
 <!-- Commands or steps to validate -->
 
 ## 🔗 Related Issues
-Closes #
+Closes ##
